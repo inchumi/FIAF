@@ -35,6 +35,8 @@ test1
 ![Imgur](https://imgur.com/BAb7xOL)
 Test2
 [img]https://i.imgur.com/BAb7xOL.png[/img]
+
+![alt text](https://imgur.com/BAb7xOL)
 ## Optimizations
 
 Do it Multiplatform.
