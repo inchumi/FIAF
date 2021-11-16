@@ -29,14 +29,13 @@ kali@kali:~$ python3 daviscovery.py
 
 
 ## Screenshots
-Test
-![App Screenshot]([Imgur](https://imgur.com/BAb7xOL))
-test1
-![Imgur](https://imgur.com/BAb7xOL)
-Test2
-[img]https://i.imgur.com/BAb7xOL.png[/img]
-
-![alt text](https://imgur.com/BAb7xOL)
+![plot](./screenshots/fiaf_screenshot1.png)
+![plot](./screenshots/fiaf_screenshot2.png)
+![plot](./screenshots/fiaf_screenshot3.png)
+![plot](./screenshots/fiaf_screenshot4.png)
+![plot](./screenshots/fiaf_screenshot5.png)
+![plot](./screenshots/fiaf_screenshot6.png)
+![plot](./screenshots/fiaf_screenshot7.png)
 ## Optimizations
 
 Do it Multiplatform.
