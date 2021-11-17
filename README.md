@@ -1,7 +1,7 @@
 
 # FIAF - File Into Another File (EOF technique)
 
-Python script for hide some files into another one.
+Python script for hide/unhide some files into another one.
 
 
 ## Installation
