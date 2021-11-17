@@ -24,7 +24,7 @@ python3 fiaf.py
 ## Usage/Examples
 
 ```bash
-kali@kali:~$ python3 daviscovery.py 
+kali@kali:~$ python3 FIAF.py 
 ```
 
 
